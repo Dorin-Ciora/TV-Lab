@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/TV-Lab/static/css/main.608a89d3.chunk.css",
+    "main.js": "/TV-Lab/static/js/main.d34cf9b5.chunk.js",
+    "main.js.map": "/TV-Lab/static/js/main.d34cf9b5.chunk.js.map",
+    "runtime-main.js": "/TV-Lab/static/js/runtime-main.aff7231f.js",
+    "runtime-main.js.map": "/TV-Lab/static/js/runtime-main.aff7231f.js.map",
+    "static/js/2.6d323102.chunk.js": "/TV-Lab/static/js/2.6d323102.chunk.js",
+    "static/js/2.6d323102.chunk.js.map": "/TV-Lab/static/js/2.6d323102.chunk.js.map",
+    "index.html": "/TV-Lab/index.html",
+    "precache-manifest.169f349e4a1aa7c661a0fda551985a60.js": "/TV-Lab/precache-manifest.169f349e4a1aa7c661a0fda551985a60.js",
+    "service-worker.js": "/TV-Lab/service-worker.js",
+    "static/css/main.608a89d3.chunk.css.map": "/TV-Lab/static/css/main.608a89d3.chunk.css.map",
+    "static/js/2.6d323102.chunk.js.LICENSE": "/TV-Lab/static/js/2.6d323102.chunk.js.LICENSE",
+    "static/media/avengers.jpg": "/TV-Lab/static/media/avengers.aaaab3fd.jpg",
+    "static/media/interstelar.jpg": "/TV-Lab/static/media/interstelar.8f35b89e.jpg",
+    "static/media/movie4.jpg": "/TV-Lab/static/media/movie4.462e11a9.jpg",
+    "static/media/movie6.jpg": "/TV-Lab/static/media/movie6.1fe79cce.jpg",
+    "static/media/rampage.jpg": "/TV-Lab/static/media/rampage.d88b383d.jpg",
+    "static/media/thor.jpg": "/TV-Lab/static/media/thor.fc4e6f11.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.aff7231f.js",
+    "static/js/2.6d323102.chunk.js",
+    "static/css/main.608a89d3.chunk.css",
+    "static/js/main.d34cf9b5.chunk.js"
+  ]
+}
